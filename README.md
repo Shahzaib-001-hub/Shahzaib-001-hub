@@ -1,28 +1,31 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color=0:0ea5e9,50:6366f1,100:a855f7&height=220&section=header&text=Shahzaib%20Arbab&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Next.js%20%E2%80%A2%20React%20%E2%80%A2%20Node.js&descAlignY=58&descAlign=50" width="100%" alt="Header Banner"/>
+  <!-- ==================== HERO HEADER ==================== -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color=0:070d18,40:1e3a8a,100:2563eb&height=220&section=header&text=Shahzaib%20Arbab&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Next.js%20%E2%80%A2%20React%20%E2%80%A2%20Node.js&descAlignY=58&descAlign=50" width="100%" alt="Shahzaib Arbab - Full Stack Developer" />
 
-  <!-- Animated Typing SVG -->
+  <!-- Animated Typing Title -->
   <a href="https://github.com/Shahzaib-001-hub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=620&height=90&lines=Hi+there!+%F0%9F%91%8B+I'm+Shahzaib+Arbab;Full+Stack+Developer+%7C+Next.js+%7C+MERN;Crafting+Aesthetic+UI+%26+Scalable+Web+Apps;Turning+Ideas+Into+High-Performance+Products" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=620&height=95&lines=Hi%2C+I'm+Shahzaib+%F0%9F%91%8B;Full+Stack+Developer;Next.js+%26+React+Specialist;Node.js+%26+MERN+Stack+Engineer;Building+High-Performance+Web+Applications;Turning+Ideas+Into+Functional+Products" alt="Shahzaib Typing SVG" />
   </a>
 
   <br/>
 
-  <!-- Social Badges -->
+  <!-- Quick Action / Social Badges -->
   <p align="center">
     <a href="https://linkedin.com/in/shahzaib-arbab/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://everybeat.blog" target="_blank">
-      <img src="https://img.shields.io/badge/EveryBeat.blog-111827?style=for-the-badge&logo=hashnode&logoColor=38BDF8" alt="EveryBeat Blog" />
-    </a>
+    &nbsp;
     <a href="https://servyxo.com" target="_blank">
-      <img src="https://img.shields.io/badge/Servyxo-6366F1?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Servyxo Agency" />
+      <img src="https://img.shields.io/badge/Portfolio%20%2F%20Agency-1E40AF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio / Servyxo" />
     </a>
-    <a href="mailto:shahzaibarbab@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    &nbsp;
+    <a href="https://everybeat.blog" target="_blank">
+      <img src="https://img.shields.io/badge/EveryBeat.blog-0284C7?style=for-the-badge&logo=hashnode&logoColor=white" alt="EveryBeat Blog" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/Shahzaib-001-hub" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
     </a>
   </p>
 
@@ -30,91 +33,212 @@
 
 ---
 
-### 💫 About Me
+### 👨‍💻 About Me
 
-```javascript
-const shahzaib = {
-  pronouns: "he/him",
-  role: "Full Stack Developer",
-  coreFocus: ["Next.js", "React.js", "Node.js", "Scalable Systems"],
-  passions: ["Clean UI/UX Design", "Modern Web Architectures", "Building SaaS"],
-  currentGoal: "Building cutting-edge digital experiences with exceptional user interfaces",
-  philosophy: "Code that is as clean and performant under the hood as it is beautiful on screen."
-};
-```
+I am a **Full Stack Developer** focused on engineering modern, scalable, and user-friendly web applications. I specialize in building complete digital products from responsive, pixel-perfect user interfaces to secure backend architectures, robust REST APIs, and database integrations.
 
-- 🔭 **Currently Building:** High-performance SaaS & full-stack applications with **Next.js**
-- 🎨 **UI/UX Obsession:** Crafting fluid, responsive, and aesthetic web interfaces
-- ⚙️ **Architecture:** Developing robust APIs, microservices, and database schemas with **MongoDB & Node.js**
-- 💬 **Ask Me About:** React, Next.js, Tailwind CSS, State Management, and Full-Stack Integration
-- 🚀 **Always Learning:** Advanced distributed systems, microfrontends, and cloud deployments
+* 🌐 **Frontend Mastery:** Deep expertise in **Next.js**, **React.js**, and **Tailwind CSS** with a strong emphasis on clean UI, performance optimization, and responsive design.
+* ⚙️ **Backend Engineering:** Developing scalable server architectures and REST APIs with **Node.js**, **Express.js**, and **MongoDB/Mongoose**.
+* 🚀 **Real-World Focus:** Passionate about building production-ready web apps, SaaS platforms, and enterprise solutions that solve real business problems.
+* 📈 **Continuous Growth:** Constantly sharpening skills in scalable database architecture, modern authentication workflows, and cloud deployments on **Vercel**.
 
 ---
 
-### 🛠️ Tech Stack & Toolkit
+### 🛠️ Tech Stack & Capabilities
 
 <div align="center">
 
-  #### 🌐 Frontend & UI
-  <p>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,js,ts,html,css,redux" alt="Frontend Tech" />
-  </p>
+| Category | Technologies & Tools |
+| :--- | :--- |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite" alt="Frontend Stack" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,postman" alt="Backend Stack" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=mongodb,sqlite,postgres" alt="Database Stack" /> |
+| **Tools & Cloud** | <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,figma" alt="Dev Tools" /> |
 
-  #### ⚙️ Backend & Database
-  <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" alt="Backend Tech" />
-  </p>
+</div>
 
-  #### 🧰 Tools, Platforms & DevOps
-  <p>
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,figma" alt="Tools" />
-  </p>
+<br/>
+
+<div align="center">
+
+```text
+HTML5  •  CSS3  •  JavaScript (ES6+)  •  React.js  •  Next.js  •  Tailwind CSS  •  Vite
+Node.js  •  Express.js  •  RESTful APIs  •  MongoDB  •  Mongoose  •  SQL  •  SQLite
+Git  •  GitHub  •  Vercel  •  Cloudinary  •  Postman  •  VS Code
+```
 
 </div>
 
 ---
 
-### 🚀 Featured Projects
+### 🌟 Featured Flagship Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📰 EveryBeat</h3>
+      <p align="center">
+        <b>Modern Content & Blogging Platform</b>
+      </p>
+      <p align="center">
+        <a href="https://everybeat.blog" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-0284C7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+        </a>
+      </p>
+      <p>A high-performance digital publishing and blogging platform engineered for speed, clean reading typography, and search engine discoverability.</p>
+      <p>
+        <b>Tech:</b>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <b>Key Features:</b>
+      <ul>
+        <li>Structured article categorization and dynamic reading feeds</li>
+        <li>Clean, responsive reader UI optimized for typography and readability</li>
+        <li>SEO-friendly metadata and high-speed server rendering</li>
+        <li>Content creation layout with featured image handling</li>
+      </ul>
+      <p>🔗 <b>Website:</b> <a href="https://everybeat.blog">everybeat.blog</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🚀 Servyxo</h3>
+      <p align="center">
+        <b>Digital Marketing & Technology Agency</b>
+      </p>
+      <p align="center">
+        <a href="https://servyxo.com" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Website-1E40AF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Website" />
+        </a>
+      </p>
+      <p>Official web platform for Servyxo, delivering end-to-end digital growth, performance marketing, and software engineering solutions.</p>
+      <p>
+        <b>Tech:</b>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+      <b>Core Service Portfolios:</b>
+      <ul>
+        <li>Web Development & Full-Stack Application Solutions</li>
+        <li>Social Media & Performance Marketing Systems</li>
+        <li>Search Engine Optimization (SEO) & Analytics</li>
+        <li>Modern Creative Design, Branding & Digital Content</li>
+      </ul>
+      <p>🔗 <b>Website:</b> <a href="https://servyxo.com">servyxo.com</a></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Full-Stack & Web Engineering Showcase
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ EveryBeat</h3>
-      <p align="center">
-        <a href="https://everybeat.blog" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="EveryBeat Live"/>
+      <h3>🛒 Fitex E-Commerce Platform</h3>
+      <p>Full-stack modern fitness and athletic apparel e-commerce web application with user authentication and database management.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/NextAuth-5A67D8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      </p>
+      <b>Key Features:</b>
+      <ul>
+        <li>Secure authentication and session handling using NextAuth & Bcrypt</li>
+        <li>Dynamic product catalog, detail pages, and shopping cart workflow</li>
+        <li>MongoDB database integration with Mongoose schema modeling</li>
+      </ul>
+      <p>
+        <a href="https://fit-ex-ecommerce-yj98.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/Shahzaib-001-hub/Task06_FullStack_FitexEcom" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-0F172A?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
-      <p>A modern, lightning-fast <b>blogging platform</b> designed with an aesthetic reading experience, rich content editor, and optimized SEO performance.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      </p>
-      <ul>
-        <li>🔗 <b>URL:</b> <a href="https://everybeat.blog">everybeat.blog</a></li>
-        <li>✨ Focus on clean typography, responsive layout, and speed.</li>
-      </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Servyxo</h3>
-      <p align="center">
-        <a href="https://servyxo.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Servyxo Live"/>
+      <h3>🩺 Frictionless Medical Appointment App</h3>
+      <p>A healthcare booking web application built to streamline patient appointment scheduling and clinician workflows.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/NextAuth-5A67D8?style=flat-square" />
+        <img src="https://img.shields.io/badge/Lucide_Icons-F05032?style=flat-square" />
+      </p>
+      <b>Key Features:</b>
+      <ul>
+        <li>Interactive doctor selection and date/time slot reservation system</li>
+        <li>Patient account authentication and appointment history tracking</li>
+        <li>Responsive healthcare dashboard with clean UX components</li>
+      </ul>
+      <p>
+        <a href="https://frictionless-medical-appointment-ap.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/Shahzaib-001-hub/Frictionless_medicalAppointment_app" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-0F172A?style=flat-square&logo=github&logoColor=white" />
         </a>
       </p>
-      <p>Official website for <b>Servyxo</b> — a digital marketing and modern technology agency delivering end-to-end digital solutions.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Smart Complaint Management System</h3>
+      <p>Backend API and system for tracking, managing, and resolving user issues and operational complaints.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js" />
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
       </p>
+      <b>Key Features:</b>
       <ul>
-        <li>🔗 <b>URL:</b> <a href="https://servyxo.com">servyxo.com</a></li>
-        <li>✨ High-converting landing pages with seamless animations.</li>
+        <li>RESTful API architecture with JWT authentication & password hashing</li>
+        <li>Complaint ticketing lifecycle: submission, categorization, and status updates</li>
+        <li>Structured Mongoose models and secure middleware protection</li>
       </ul>
+      <p>
+        <a href="https://smart-complain-system-phi.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/Shahzaib-001-hub/SmartComplainSystem" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-0F172A?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛋️ Furniro Modern Storefront</h3>
+      <p>A modern e-commerce storefront interface built with React, Vite, and Tailwind CSS featuring interactive catalog browsing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" />
+      </p>
+      <b>Key Features:</b>
+      <ul>
+        <li>Dynamic client-side routing with React Router</li>
+        <li>Filterable product collections and interactive product detail views</li>
+        <li>Modular and reusable component architecture</li>
+      </ul>
+      <p>
+        <a href="https://furino-front-end-react-vite.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live_Demo-2563EB?style=flat-square&logo=vercel&logoColor=white" />
+        </a>
+        &nbsp;
+        <a href="https://github.com/Shahzaib-001-hub/Task05_Front_End_Furniro" target="_blank">
+          <img src="https://img.shields.io/badge/Repository-0F172A?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
@@ -124,18 +248,19 @@ const shahzaib = {
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <table border="0">
+  <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Shahzaib-001-hub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8" alt="GitHub Stats" />
+      <td align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api?username=Shahzaib-001-hub&show_icons=true&theme=transparent&title_color=38bdf8&icon_color=2563eb&text_color=cbd5e1&border_color=1e3a8a&bg_color=0a0f1d" alt="Shahzaib's GitHub Stats" />
       </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzaib-001-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
+      <td align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzaib-001-hub&layout=compact&title_color=38bdf8&text_color=cbd5e1&border_color=1e3a8a&bg_color=0a0f1d" alt="Top Languages" />
       </td>
     </tr>
     <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzaib-001-hub&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+      <td colspan="2" align="center" valign="middle">
+        <br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzaib-001-hub&background=0a0f1d&border=1e3a8a&stroke=2563eb&ring=38bdf8&fire=2563eb&currStreakLabel=38bdf8&currStreakNum=ffffff&sideLabels=94a3b8&sideNums=ffffff" alt="GitHub Streak Stats" />
       </td>
     </tr>
   </table>
@@ -143,25 +268,31 @@ const shahzaib = {
 
 ---
 
-### 🤝 Let's Connect & Collaborate
+### 📬 Connect With Me
 
 <div align="center">
-  <p>Whether you have an exciting project, an open-source idea, or just want to connect, feel free to reach out!</p>
+
+  <p>I am open to collaborations, full-stack opportunities, and innovative web engineering projects.</p>
 
   <a href="https://linkedin.com/in/shahzaib-arbab/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://servyxo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Servyxo-1E40AF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://everybeat.blog" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-38BDF8?style=for-the-badge&logo=hashnode&logoColor=black" alt="Blog" />
+    <img src="https://img.shields.io/badge/Blog-EveryBeat-0284C7?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog" />
   </a>
   &nbsp;
   <a href="https://github.com/Shahzaib-001-hub" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Shahzaib--001--hub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
   </a>
 
   <br/><br/>
 
   <!-- Footer Wave -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color=0:0ea5e9,50:6366f1,100:a855f7&height=120&section=footer" width="100%" alt="Footer Wave"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color=0:070d18,40:1e3a8a,100:2563eb&height=120&section=footer" width="100%" alt="Footer Wave" />
+
 </div>
