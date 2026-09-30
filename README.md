@@ -1,16 +1,16 @@
 <div align="center">
 
-  <!-- ==================== HERO HEADER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color=0:070d18,40:1e3a8a,100:2563eb&height=220&section=header&text=Shahzaib%20Arbab&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Founder%20at%20Servyxo&descAlignY=58&descAlign=50" width="100%" alt="Shahzaib Arbab - Full Stack Developer & Founder at Servyxo" />
+  <!-- ==================== DEVELOPER HERO BANNER ==================== -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color=0:050b14,35:0e244d,70:1e40af,100:38bdf8&height=220&section=header&text=%3C%20Shahzaib%20Arbab%20%2F%3E&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Founder%20at%20Servyxo&descAlignY=58&descAlign=50" width="100%" alt="Shahzaib Arbab - Full Stack Developer & Founder at Servyxo" />
 
-  <!-- Animated Typing Title -->
+  <!-- Animated Terminal Typing Sequence -->
   <a href="https://github.com/Shahzaib-001-hub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=650&height=95&lines=Hi%2C+I'm+Shahzaib+%F0%9F%91%8B;Full+Stack+Developer+%26+Founder+at+Servyxo;Next.js+%26+React+Specialist;Node.js+%26+MERN+Stack+Engineer;Building+High-Performance+Web+Applications;Turning+Ideas+Into+Functional+Products" alt="Shahzaib Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=680&height=100&lines=%24+npx+whoami;%3E+Shahzaib+Arbab+%7C+Full+Stack+Developer+%26+Founder+%40+Servyxo;%3E+Stack%3A+Next.js+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+Tailwind;%3E+Building+Scalable+Web+Applications+%26+SaaS+Solutions;%3E+Turning+Complex+Logic+Into+Clean+Performant+Code" alt="Developer Terminal Typing" />
   </a>
 
   <br/>
 
-  <!-- Quick Action / Social Badges -->
+  <!-- Developer Links & Social Action Badges -->
   <p align="center">
     <a href="https://linkedin.com/in/shahzaib-arbab/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -21,11 +21,11 @@
     </a>
     &nbsp;
     <a href="https://everybeat.blog" target="_blank">
-      <img src="https://img.shields.io/badge/EveryBeat.blog-0284C7?style=for-the-badge&logo=hashnode&logoColor=white" alt="EveryBeat Blog" />
+      <img src="https://img.shields.io/badge/Blog-EveryBeat-0284C7?style=for-the-badge&logo=hashnode&logoColor=white" alt="EveryBeat Blog" />
     </a>
     &nbsp;
     <a href="https://github.com/Shahzaib-001-hub" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-Shahzaib--001--hub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
     </a>
   </p>
 
@@ -33,7 +33,25 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Developer Profile & About Me
+
+```typescript
+/**
+ * @developer Shahzaib Arbab
+ * @role Full Stack Developer & Founder at Servyxo
+ * @stack Next.js | React | Node.js | MongoDB | Tailwind CSS
+ */
+
+const shahzaib = {
+  fullName: "Shahzaib Arbab",
+  role: "Full Stack Developer & Founder",
+  organization: "Servyxo (https://servyxo.com)",
+  flagshipBlog: "EveryBeat (https://everybeat.blog)",
+  coreExpertise: ["Next.js Full-Stack", "React Architecture", "REST API Development", "MongoDB Schema Design"],
+  currentFocus: "Engineering production-ready SaaS apps, clean user interfaces, and scalable backend infrastructure",
+  philosophy: "Clean code under the hood, intuitive UI on the screen, and robust architecture throughout."
+};
+```
 
 I am a **Full Stack Developer** and **Founder at [Servyxo](https://servyxo.com)**, focused on engineering modern, scalable, and user-friendly web applications. I specialize in building complete digital products from responsive, pixel-perfect user interfaces to secure backend architectures, robust REST APIs, and database integrations.
 
