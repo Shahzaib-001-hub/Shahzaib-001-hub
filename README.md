@@ -1,19 +1,21 @@
 <div align="center">
 
-  <!-- ==================== DEVELOPER HERO BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color=0:050b14,35:0e244d,70:1e40af,100:38bdf8&height=220&section=header&text=%3C%20Shahzaib%20Arbab%20%2F%3E&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Founder%20at%20Servyxo&descAlignY=58&descAlign=50" width="100%" alt="Shahzaib Arbab - Full Stack Developer & Founder at Servyxo" />
-
-  <!-- Animated Terminal Typing Sequence -->
+  <!-- ==================== DEVELOPER TERMINAL HERO ==================== -->
   <a href="https://github.com/Shahzaib-001-hub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2400&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=680&height=100&lines=%24+npx+whoami;%3E+Shahzaib+Arbab+%7C+Full+Stack+Developer+%26+Founder+%40+Servyxo;%3E+Stack%3A+Next.js+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB+%E2%80%A2+Tailwind;%3E+Building+Scalable+Web+Applications+%26+SaaS+Solutions;%3E+Turning+Complex+Logic+Into+Clean+Performant+Code" alt="Developer Terminal Typing" />
+    <img src="https://raw.githubusercontent.com/Shahzaib-001-hub/Shahzaib-001-hub/main/assets/header.svg" width="100%" alt="Shahzaib Arbab - Full Stack Developer & Founder at Servyxo" />
   </a>
 
-  <br/>
+  <!-- Animated Live Terminal Execution Line -->
+  <p align="center">
+    <a href="https://github.com/Shahzaib-001-hub">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2200&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=32&lines=%24+deploying+high-performance+web+applications...;%24+crafting+modern+UI%2FUX+with+Next.js+%26+Tailwind;%24+building+scalable+APIs+with+Node.js+%26+MongoDB;%24+turning+ideas+into+production-ready+products" alt="Terminal Subtitle" />
+    </a>
+  </p>
 
   <!-- Developer Links & Social Action Badges -->
   <p align="center">
     <a href="https://linkedin.com/in/shahzaib-arbab/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://servyxo.com" target="_blank">
