@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- ==================== HERO HEADER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color=0:070d18,40:1e3a8a,100:2563eb&height=220&section=header&text=Shahzaib%20Arbab&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Next.js%20%E2%80%A2%20React%20%E2%80%A2%20Node.js&descAlignY=58&descAlign=50" width="100%" alt="Shahzaib Arbab - Full Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color=0:070d18,40:1e3a8a,100:2563eb&height=220&section=header&text=Shahzaib%20Arbab&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Founder%20at%20Servyxo&descAlignY=58&descAlign=50" width="100%" alt="Shahzaib Arbab - Full Stack Developer & Founder at Servyxo" />
 
   <!-- Animated Typing Title -->
   <a href="https://github.com/Shahzaib-001-hub">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=620&height=95&lines=Hi%2C+I'm+Shahzaib+%F0%9F%91%8B;Full+Stack+Developer;Next.js+%26+React+Specialist;Node.js+%26+MERN+Stack+Engineer;Building+High-Performance+Web+Applications;Turning+Ideas+Into+Functional+Products" alt="Shahzaib Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=650&height=95&lines=Hi%2C+I'm+Shahzaib+%F0%9F%91%8B;Full+Stack+Developer+%26+Founder+at+Servyxo;Next.js+%26+React+Specialist;Node.js+%26+MERN+Stack+Engineer;Building+High-Performance+Web+Applications;Turning+Ideas+Into+Functional+Products" alt="Shahzaib Typing SVG" />
   </a>
 
   <br/>
@@ -17,7 +17,7 @@
     </a>
     &nbsp;
     <a href="https://servyxo.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio%20%2F%20Agency-1E40AF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio / Servyxo" />
+      <img src="https://img.shields.io/badge/Founder%20@%20Servyxo-1E40AF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Founder at Servyxo" />
     </a>
     &nbsp;
     <a href="https://everybeat.blog" target="_blank">
@@ -35,7 +35,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Full Stack Developer** focused on engineering modern, scalable, and user-friendly web applications. I specialize in building complete digital products from responsive, pixel-perfect user interfaces to secure backend architectures, robust REST APIs, and database integrations.
+I am a **Full Stack Developer** and **Founder at [Servyxo](https://servyxo.com)**, focused on engineering modern, scalable, and user-friendly web applications. I specialize in building complete digital products from responsive, pixel-perfect user interfaces to secure backend architectures, robust REST APIs, and database integrations.
 
 * 🌐 **Frontend Mastery:** Deep expertise in **Next.js**, **React.js**, and **Tailwind CSS** with a strong emphasis on clean UI, performance optimization, and responsive design.
 * ⚙️ **Backend Engineering:** Developing scalable server architectures and REST APIs with **Node.js**, **Express.js**, and **MongoDB/Mongoose**.
