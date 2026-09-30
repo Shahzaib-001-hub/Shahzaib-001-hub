@@ -1,14 +1,14 @@
 <div align="center">
 
-  <!-- ==================== DEVELOPER TERMINAL HERO ==================== -->
+  <!-- ==================== DEVELOPER HERO BANNER ==================== -->
   <a href="https://github.com/Shahzaib-001-hub">
-    <img src="https://raw.githubusercontent.com/Shahzaib-001-hub/Shahzaib-001-hub/main/assets/header.svg" width="100%" alt="Shahzaib Arbab - Full Stack Developer & Founder at Servyxo" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color=0:030712,30:0b2559,70:1d4ed8,100:38bdf8&height=220&section=header&text=%3C%20Shahzaib%20Arbab%20%2F%3E&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Founder%20at%20Servyxo&descAlignY=58&descAlign=50" width="100%" alt="Shahzaib Arbab - Full Stack Developer & Founder at Servyxo" />
   </a>
 
-  <!-- Animated Live Terminal Execution Line -->
+  <!-- Animated Terminal Typing Sequence -->
   <p align="center">
     <a href="https://github.com/Shahzaib-001-hub">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2200&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&height=32&lines=%24+deploying+high-performance+web+applications...;%24+crafting+modern+UI%2FUX+with+Next.js+%26+Tailwind;%24+building+scalable+APIs+with+Node.js+%26+MongoDB;%24+turning+ideas+into+production-ready+products" alt="Terminal Subtitle" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=650&height=85&lines=%24+Shahzaib+Arbab+%7C+Full+Stack+Developer;%24+Founder+at+Servyxo;%24+Next.js+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;%24+Turning+Ideas+Into+Production-Ready+Software" alt="Shahzaib Typing SVG" />
     </a>
   </p>
 
@@ -35,32 +35,15 @@
 
 ---
 
-### 👨‍💻 Developer Profile & About Me
+### 👨‍💻 About Me
 
-```typescript
-/**
- * @developer Shahzaib Arbab
- * @role Full Stack Developer & Founder at Servyxo
- * @stack Next.js | React | Node.js | MongoDB | Tailwind CSS
- */
+I am a **Full Stack Developer** and the **Founder at [Servyxo](https://servyxo.com)**, dedicated to architecting scalable, modern, and high-performance web applications. I bridge the gap between intuitive, clean user experiences and robust, secure backend systems.
 
-const shahzaib = {
-  fullName: "Shahzaib Arbab",
-  role: "Full Stack Developer & Founder",
-  organization: "Servyxo (https://servyxo.com)",
-  flagshipBlog: "EveryBeat (https://everybeat.blog)",
-  coreExpertise: ["Next.js Full-Stack", "React Architecture", "REST API Development", "MongoDB Schema Design"],
-  currentFocus: "Engineering production-ready SaaS apps, clean user interfaces, and scalable backend infrastructure",
-  philosophy: "Clean code under the hood, intuitive UI on the screen, and robust architecture throughout."
-};
-```
-
-I am a **Full Stack Developer** and **Founder at [Servyxo](https://servyxo.com)**, focused on engineering modern, scalable, and user-friendly web applications. I specialize in building complete digital products from responsive, pixel-perfect user interfaces to secure backend architectures, robust REST APIs, and database integrations.
-
-* 🌐 **Frontend Mastery:** Deep expertise in **Next.js**, **React.js**, and **Tailwind CSS** with a strong emphasis on clean UI, performance optimization, and responsive design.
-* ⚙️ **Backend Engineering:** Developing scalable server architectures and REST APIs with **Node.js**, **Express.js**, and **MongoDB/Mongoose**.
-* 🚀 **Real-World Focus:** Passionate about building production-ready web apps, SaaS platforms, and enterprise solutions that solve real business problems.
-* 📈 **Continuous Growth:** Constantly sharpening skills in scalable database architecture, modern authentication workflows, and cloud deployments on **Vercel**.
+* 🌐 **Frontend Engineering:** Specialized in **Next.js**, **React.js**, and **Tailwind CSS** with a strong focus on responsiveness, clean design systems, and rendering performance.
+* ⚙️ **Backend & Database:** Designing scalable RESTful APIs, business logic, and database schemas with **Node.js**, **Express.js**, and **MongoDB/Mongoose**.
+* 🚀 **Product Building & Agency:** Leading **Servyxo** to deliver production-grade software solutions, full-stack web applications, and digital marketing infrastructure.
+* ✍️ **Content & Publishing:** Creator of **[EveryBeat.blog](https://everybeat.blog)**, a modern content platform focused on tech and digital culture.
+* 📈 **Continuous Evolution:** Constantly exploring advanced system design, modern authentication patterns, and cloud-native deployments on **Vercel**.
 
 ---
 
