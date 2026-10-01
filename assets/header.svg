@@ -186,49 +186,49 @@
 
       <!-- Line 2 -->
       <text x="0" y="22" fill="#64748b">2</text>
-      <text x="24" y="22" fill="#e2e8f0">&nbsp;&nbsp;name:</text>
+      <text x="36" y="22" fill="#e2e8f0">name:</text>
       <text x="96" y="22" fill="#a7f3d0">"Shahzaib Arbab"</text>
       <text x="238" y="22" fill="#94a3b8">,</text>
 
       <!-- Line 3 -->
       <text x="0" y="44" fill="#64748b">3</text>
-      <text x="24" y="44" fill="#e2e8f0">&nbsp;&nbsp;role:</text>
+      <text x="36" y="44" fill="#e2e8f0">role:</text>
       <text x="96" y="44" fill="#a7f3d0">"Full Stack Developer"</text>
       <text x="286" y="44" fill="#94a3b8">,</text>
 
       <!-- Line 4 -->
       <text x="0" y="66" fill="#64748b">4</text>
-      <text x="24" y="66" fill="#e2e8f0">&nbsp;&nbsp;founder:</text>
+      <text x="36" y="66" fill="#e2e8f0">founder:</text>
       <text x="118" y="66" fill="#38bdf8">"Servyxo"</text>
       <text x="194" y="66" fill="#94a3b8">,</text>
 
       <!-- Line 5 -->
       <text x="0" y="88" fill="#64748b">5</text>
-      <text x="24" y="88" fill="#e2e8f0">&nbsp;&nbsp;platform:</text>
+      <text x="36" y="88" fill="#e2e8f0">platform:</text>
       <text x="126" y="88" fill="#38bdf8">"EveryBeat.blog"</text>
       <text x="254" y="88" fill="#94a3b8">,</text>
 
       <!-- Line 6 -->
       <text x="0" y="110" fill="#64748b">6</text>
-      <text x="24" y="110" fill="#e2e8f0">&nbsp;&nbsp;stack:</text>
+      <text x="36" y="110" fill="#e2e8f0">stack:</text>
       <text x="96" y="110" fill="#f8fafc">[</text>
       <text x="108" y="110" fill="#fde047">"Next.js"</text>
-      <text x="178" y="110" fill="#94a3b8">,&nbsp;</text>
+      <text x="178" y="110" fill="#94a3b8">, </text>
       <text x="192" y="110" fill="#fde047">"React"</text>
-      <text x="250" y="110" fill="#94a3b8">,&nbsp;</text>
+      <text x="250" y="110" fill="#94a3b8">, </text>
       <text x="264" y="110" fill="#fde047">"Node"</text>
       <text x="314" y="110" fill="#f8fafc">]</text>
       <text x="322" y="110" fill="#94a3b8">,</text>
 
       <!-- Line 7 -->
       <text x="0" y="132" fill="#64748b">7</text>
-      <text x="24" y="132" fill="#e2e8f0">&nbsp;&nbsp;database:</text>
+      <text x="36" y="132" fill="#e2e8f0">database:</text>
       <text x="134" y="132" fill="#a7f3d0">"MongoDB / Mongoose"</text>
       <text x="298" y="132" fill="#94a3b8">,</text>
 
       <!-- Line 8 -->
       <text x="0" y="154" fill="#64748b">8</text>
-      <text x="24" y="154" fill="#e2e8f0">&nbsp;&nbsp;openForWork:</text>
+      <text x="36" y="154" fill="#e2e8f0">openForWork:</text>
       <text x="156" y="154" fill="#38bdf8">true</text>
       <text x="192" y="154" fill="#94a3b8">,</text>
 

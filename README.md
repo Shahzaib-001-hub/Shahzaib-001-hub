@@ -2,33 +2,17 @@
 
   <!-- ==================== HERO HEADER ==================== -->
   <a href="https://github.com/Shahzaib-001-hub">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color=0:070d18,30:1e3a8a,70:2563eb,100:38bdf8&height=220&section=header&text=%3C%20Shahzaib%20Arbab%20%2F%3E&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Founder%20at%20Servyxo&descAlignY=58&descAlign=50" width="100%" alt="Shahzaib Arbab - Full Stack Developer & Co-Founder at Servyxo" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color=0:070d18,30:1e3a8a,70:2563eb,100:38bdf8&height=220&section=header&text=Shahzaib%20Arbab&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Founder%20at%20Servyxo&descAlignY=58&descAlign=50" width="100%" alt="Shahzaib Arbab - Full Stack Developer & Founder at Servyxo" />
   </a>
 
   <!-- Animated Live Typing Sequence -->
   <p align="center">
-    <a href="https://github.com/Shahzaib-001-hub">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2400&pause=1000&color=2563EB&center=true&vCenter=true&multiline=true&width=680&height=90&lines=%24+Shahzaib+Arbab+%7C+Full+Stack+Developer+%26+Founder;%24+Specializing+in+Next.js+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;%24+Building+Scalable+Web+Applications+%26+Modern+SaaS;%24+Turning+Ideas+Into+Production-Ready+Software" alt="Shahzaib Typing SVG" />
-    </a>
+    <a href="https://github.com/Shahzaib-001-hub"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=1000&color=2563EB&center=true&vCenter=true&width=680&height=40&lines=%24+Shahzaib+Arbab+%7C+Full+Stack+Developer+%26+Founder;%24+Specializing+in+Next.js+%E2%80%A2+React+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;%24+Building+Scalable+Web+Applications+%26+Modern+SaaS;%24+Turning+Ideas+Into+Production-Ready+Software" alt="Shahzaib Typing SVG" /></a>
   </p>
 
   <!-- Quick Action / Social Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/shahzaib-arbab/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://servyxo.com" target="_blank">
-      <img src="https://img.shields.io/badge/Founder%20@%20Servyxo-1E40AF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Founder at Servyxo" />
-    </a>
-    &nbsp;
-    <a href="https://everybeat.blog" target="_blank">
-      <img src="https://img.shields.io/badge/Blog-EveryBeat-0284C7?style=for-the-badge&logo=hashnode&logoColor=white" alt="EveryBeat Blog" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/Shahzaib-001-hub" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-Shahzaib--001--hub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" />
-    </a>
+    <a href="https://linkedin.com/in/shahzaib-arbab/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="https://servyxo.com" target="_blank"><img src="https://img.shields.io/badge/Founder%20@%20Servyxo-1E40AF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Founder at Servyxo" /></a>&nbsp;&nbsp;<a href="https://everybeat.blog" target="_blank"><img src="https://img.shields.io/badge/Blog-EveryBeat-0284C7?style=for-the-badge&logo=hashnode&logoColor=white" alt="EveryBeat Blog" /></a>&nbsp;&nbsp;<a href="https://github.com/Shahzaib-001-hub" target="_blank"><img src="https://img.shields.io/badge/GitHub-Shahzaib--001--hub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub" /></a>
   </p>
 
 </div>
