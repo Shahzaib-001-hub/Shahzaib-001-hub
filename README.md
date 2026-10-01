@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- ==================== HERO HEADER ==================== -->
+  <!-- ==================== DEVELOPER HERO BANNER ==================== -->
   <a href="https://github.com/Shahzaib-001-hub">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color=0:070d18,30:1e3a8a,70:2563eb,100:38bdf8&height=220&section=header&text=Shahzaib%20Arbab&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Founder%20at%20Servyxo&descAlignY=58&descAlign=50" width="100%" alt="Shahzaib Arbab - Full Stack Developer & Founder at Servyxo" />
+    <img src="./assets/header.svg" width="100%" alt="Shahzaib Arbab - Full Stack Developer & Founder at Servyxo" />
   </a>
 
   <!-- Animated Live Typing Sequence -->
